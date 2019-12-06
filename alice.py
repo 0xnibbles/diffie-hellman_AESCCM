@@ -1,5 +1,5 @@
 '''
-Made by: Eduardo Mendes-Silva aka eduardommsi
+Made by: s4nkx0k
 Date: 7/12/17
 Version 1.0
 
